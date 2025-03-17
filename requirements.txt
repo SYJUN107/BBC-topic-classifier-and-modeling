@@ -1,0 +1,11 @@
+nltk
+spacy
+sentence-transformers
+gensim
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+tqdm
