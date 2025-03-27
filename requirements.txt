@@ -9,3 +9,5 @@ matplotlib
 seaborn
 wordcloud
 tqdm
+transformers
+bertopic
